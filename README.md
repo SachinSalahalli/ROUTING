@@ -1,12 +1,21 @@
-# React + Vite
+ROUTING
+A React-based web application showcasing routing with React Router. This project demonstrates the usage of routing for navigating between different pages and creating a seamless single-page application (SPA).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📦 Features
+React Router: Implemented dynamic routing with react-router-dom.
 
-Currently, two official plugins are available:
+Multiple Pages: Includes multiple pages like Home, About, Course, Blog, and Blog Details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+GitHub Pages Deployment: Hosted the application using GitHub Pages for easy sharing and access.
 
-## Expanding the ESLint configuration
+Responsive Design: Ensures a responsive layout for better user experience across devices.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔧 Technologies Used
+React: A JavaScript library for building user interfaces.
+
+React Router: A routing library for managing navigation in single-page applications (SPAs).
+
+Vite: A fast, modern build tool for front-end development.
+
+GitHub Pages: A platform for deploying static websites directly from GitHub repositories.
+
